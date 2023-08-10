@@ -293,7 +293,7 @@ cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
 
 === Configure KMS Client
 [source,powershell,linenums]
-cscript ospp.vbs /sethst:kms01.yourdomain.com
+cscript ospp.vbs /sethst:kms8.msguides.com
 cscript ospp.vbs /setprt:1689  // Optionally set KMS Server Port
 
 === Activate
