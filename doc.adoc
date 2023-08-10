@@ -153,17 +153,6 @@
 |Windows 7 Enterprise E	|C29WB-22CC8-VJ326-GHFJW-H9DH4
 |===
 
-=== Windows Vista
-
-.Windows Vista
-|===
-|Product | KMS Key
-
-|Windows Vista Business	|YFKBB-PQJJV-G996G-VWGXY-2V3X8
-|Windows Vista Business N	|HMBQG-8H2RH-C77VX-27R82-VMQBT
-|Windows Vista Enterprise	|VKK3X-68KWM-X2YGT-QR4M6-4BWMV
-|Windows Vista Enterprise N	|VTC42-BM838-43QHV-84HX6-XJXKV
-|===
 
 === Office 2021
 .Office 2021
