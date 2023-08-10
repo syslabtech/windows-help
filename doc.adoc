@@ -307,12 +307,3 @@ cscript ospp.vbs /setprt:1689  // Optionally set KMS Server Port
 [source,powershell,linenums]
 cscript ospp.vbs /act  // Activate
 cscript ospp.vbs /dstatusall  // Optionally Check Current Status
-
-== Reference
-* https://theitbros.com/ms-office-2016-activation-with-kms/[IT Bros]
-* https://www.microsoft.com/en-us/download/details.aspx?id=49164[Office 2016 Client Software License Management Tool]
-* https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys[Micorosft Docs KMS Keys]
-* https://docs.microsoft.com/en-us/windows/deployment/volume-activation/activate-using-key-management-service-vamt[Microsoft Docs KMS]
-* https://technet.microsoft.com/en-us/library/ff793406.aspx[Technet]
-* https://docs.microsoft.com/en-us/DeployOffice/vlactivation/gvlks[Office 2021 GVLK]
-* https://www.blowingideas.com/windows-11-product-keys/#Windows_11_Serial_Keys[Windows 11 Keys]
