@@ -17,15 +17,6 @@
 :sectnums:
 :toc:
 
-*Author* {author} [{email}] +
-*Date* {docdate} *Revision* {revnumber}, {revdate} +
-*Tags* {keywords} +
-*Links* {src-uri}
-
-[NOTE]
-These keys are part of the public domain and are available directly from Microsoft.
-These require you to have a KMS server running within reach of the system you're trying to activate.
-These can not be used to pirate software.
 
 
 == Select Appropriate KMS Key
